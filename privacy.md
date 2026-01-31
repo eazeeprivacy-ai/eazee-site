@@ -20,8 +20,8 @@ I dati non vengono venduti. Possono essere trattati da fornitori tecnici necessa
 
 ## Diritti e contatti
 Per richieste su dati personali (accesso, rettifica, cancellazione):
-support@TUAMAIL.IT
+eazee.privacy@gmail.com
 
 ## Eliminazione account
 Puoi richiedere la cancellazione dell’account e dei dati scrivendo a:
-support@TUAMAIL.IT
+eazee.privacy@gmail.com
