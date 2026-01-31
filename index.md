@@ -12,4 +12,4 @@ Eazee ti aiuta a ritrovare persone che hai incontrato nel mondo reale, creando u
 - [Supporto](./support)
 - [Privacy Policy](./privacy)
 
-Contatto: support@TUAMAIL.IT
+Contatto: eazee.privacy@gmail.com
